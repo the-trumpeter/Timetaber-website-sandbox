@@ -31,8 +31,8 @@ Submit **up to three circular designs** by...
 - **Finding me in person**, if you know me, etc.
 <br>
 <br>
-<h1 style="color:red;">Submissions Close Saturday 5<sup>th</sup> April</h1>
-<h3 style="color:red;">Have your design(s) in <b>on or before</b> Saturday the 5<sup>th</sup> of April, 2025.</h3>
+<h1 style="color:red;"><b>Submissions Close Saturday 5<sup>th</sup> April</b></h1>
+<h3 style="color:red;"><b>Have your design(s) in <b>on or before</b> Saturday the 5<sup>th</sup> of April, 2025.</b></h3>
 <br>
 <br>
 ## Assets

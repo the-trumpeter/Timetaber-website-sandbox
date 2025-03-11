@@ -40,7 +40,7 @@ As the name suggests, Timetaber is a timetable app. It will display the course y
 To get started, the user will 'start' a 'term' (a term being a period where the timetable app shows classes.) This is to reflect the real school terms, with the intention being that the application will not show classes during holidays, or when there is no term running. The user will specify whether the term starts on a week B or a week A.\
 **These are images of the user interface:**
 
-<img src="https://github.com/user-attachments/assets/df3fb40c-0509-4f9e-a40e-9762b52d19db" width="200">
+<img src="https://github.com/user-attachments/assets/bb9418d6-f2ce-412c-95a2-7d0d1ec46c12" width="200">
 <img src="https://github.com/user-attachments/assets/e18578e1-63c4-40b0-a48b-058dc97fcd44" width="200">
 <img src="https://github.com/user-attachments/assets/c625d165-db96-42c9-bb1d-3bb8465a42d2" width="200">
 <br>

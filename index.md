@@ -3,24 +3,25 @@ title: Home
 layout: default
 ---
 
-<h2>
-	<p align="center">
-		Header Two
-	</p>
+<h2 align="center">
+	Timetaber
 </h2>
-<h4>
-	<p align="center">
-		Header Four
-	</p>
+
+
+<h4 align="center">
+	The Apple Watch Timetable App
 </h4>
 
 <p align="center">
-	Body. Nunc rutrum quam vel nisi posuere sagittis. Curabitur non orci eu nibh sagittis malesuada ac eu ligula. Vestibulum placerat mollis dapibus. Maecenas egestas dui non lectus lobortis, et efficitur diam lacinia. Pellentesque massa risus, scelerisque non enim id, molestie ultricies ipsum. Nunc a fringilla mauris. Nam fermentum scelerisque eros sed tempor. Proin tempus nisl vel felis tincidunt luctus. Nunc dolor elit, vehicula ut dapibus non, tristique id mauris. Donec lobortis justo sodales, accumsan libero non, rhoncus quam. Phasellus sagittis sem dui, sit amet tincidunt est elementum nec. Sed sodales augue urna, quis gravida est tempor sed.
-	<h2><p align="center">🤯🤨</p></h2>
+	I'm in year 8, and I constantly forget my timetable, or don't want to dig it out of the rubbish tip known as my backpack. Luckily, I seem to be somewhat okay at 	coding, so let's put that to good use and make a timetable application that I can put on my Apple Watch (I can't be bothered to install one that already exists!)
+And that's when Timetaber was born.<br>
+<br>
+And now, after a few months and my graduation from year seven, it's on the back end of development and I hope I can release something that remotely resembles what I want of a finished product soon! But alas, one looming task (and several that are much shorter than I am) remain: Making an icon.<br>
+But why should <i>I</i> do that? There are loads of people better at it than I am. Just look at my early designs, they suck!<br>
+So hence an...
 </p>
 
-<h2>
-	<p align="center">
-		Icon Competition
-	</p>
+<h2 align="center">
+	Icon Competition
 </h2>
+

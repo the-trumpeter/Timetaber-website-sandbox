@@ -3,7 +3,7 @@ title: YOUR Icon
 layout: default
 ---
 
-### Insert poster here, me!
+![IconCompPoster](https://github.com/user-attachments/assets/3b874a52-a957-44d4-99ad-17710e48c2dd)
 
 <b>Note:</b> This competition is only open to students at Hunter School of the Performing Arts. Sorry.
 

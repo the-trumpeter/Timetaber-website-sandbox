@@ -3,11 +3,15 @@ title: YOUR Icon
 layout: default
 ---
 
+.notbold{
+     font-weight:normal
+ }
 
 ### Insert poster here
 
+<strong>Note:</strong> This competition is only open to students at Hunter School of the Performing Arts. Sorry.</span></h4>
 
-<h4>Website note:</h4>This competition is only open to students at Hunter School of the Performing Arts. Sorry.
+
 <h3>
   What <s>we're</s> I'm looking for
 </h3>
@@ -20,7 +24,7 @@ layout: default
 </ul>
 
 ### Keep these tips in mind, and submit as follows:
-You can submit up to three designs by...
+Submit **up to three circular designs** by...
 
 - **emailing me** at **gill.palmer@education.nsw.gov.au**.
 - **Finding me in person**, if you know me, etc.
@@ -31,3 +35,5 @@ You can submit up to three designs by...
 **Timetaber is, of course, a timetable app.**\
 As the name suggests, Timetaber is a timetable app. It will display the course you are in, show you the next course, and tell you what is on today.
 To get started, the user will 'start' a 'term' (a term being a period where the timetable app shows classes.) This is to reflect the real school terms, with the intention being that the application will not show classes during holidays, or when there is no term running. The user will specify whether the term starts on a week B or a week A.
+
+

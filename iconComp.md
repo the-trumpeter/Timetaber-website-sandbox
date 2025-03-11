@@ -20,7 +20,7 @@ layout: default
 </ul>
 
 ### This is a really good article by Apple on designing a good icon:
-**https://developer.apple.com/design/human-interface-guidelines/app-icons**
+**[https://developer.apple.com/design/human-interface-guidelines/app-icons](https://developer.apple.com/design/human-interface-guidelines/app-icons)**
 <br>
 <br>
 <br>
@@ -50,7 +50,7 @@ To get started, the user will 'start' a 'term' (a term being a period where the 
 **Apple have a whole bunch of development assets to help developers market their products.**\
 Some of those are the product bezels (I used those to create the images above here,) and another template that we will pay more attention to is the icon template. This might not be very useful to you as you are just making a design, but you should be able to get an idea of layout, et cetera.
 
-### https://developer.apple.com/design/resources/
+### [https://developer.apple.com/design/resources/](https://developer.apple.com/design/resources/)
 **Apple Watch templates (those are what you're looking for) are about third of the way down.**
 <br>
 <br>
@@ -58,7 +58,7 @@ Some of those are the product bezels (I used those to create the images above he
 ### A little on layering
 
 You'll notice most Apple Watch apps have a gradient background with a symbol as foreground. Try to keep very close to this design. When it comes down to it, what I'm really judging on and looking for is that symbol. It should be recognisable, and intergrate with other symbols.\
-All of the Apple symbols can be found in the SF Symbols app, available from **https://developer.apple.com/sf-symbols/**
+All of the Apple symbols can be found in the SF Symbols app, available from **[https://developer.apple.com/sf-symbols/](https://developer.apple.com/sf-symbols/)**
 <br>
 <br>
 
@@ -68,9 +68,9 @@ All of the Apple symbols can be found in the SF Symbols app, available from **ht
 - A design is all I want, not a pièce de résistance.
 - A recognisable symbol that fits in with other icons.
 ### External links:
-**App Icons** https://developer.apple.com/design/human-interface-guidelines/app-icons \
-**Design Resources** https://developer.apple.com/design/resources/ \
-**SF Symbols** https://developer.apple.com/sf-symbols/ \
+**App Icons** [https://developer.apple.com/design/human-interface-guidelines/app-icons](https://developer.apple.com/design/human-interface-guidelines/app-icons) \
+**Design Resources** [https://developer.apple.com/design/resources/](https://developer.apple.com/design/resources/) \
+**SF Symbols** [https://developer.apple.com/sf-symbols/](https://developer.apple.com/sf-symbols/) \
 <sub>All links on this website have been checked and verified for safety.</sub>
 
 

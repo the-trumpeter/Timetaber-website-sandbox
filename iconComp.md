@@ -3,10 +3,6 @@ title: YOUR Icon
 layout: default
 ---
 
-.notbold{
-     font-weight:normal
- }
-
 ### Insert poster here
 
 <strong>Note:</strong> This competition is only open to students at Hunter School of the Performing Arts. Sorry.</span></h4>

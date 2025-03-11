@@ -24,3 +24,6 @@ So hence an...
 	Icon Competition
 </h2>
 
+### *[~ GO HERE FOR ALL THE INFO ~](/iconComp.md)*
+
+

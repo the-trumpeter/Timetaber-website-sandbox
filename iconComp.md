@@ -5,7 +5,8 @@ layout: default
 
 ![IconCompPoster](https://github.com/user-attachments/assets/3b874a52-a957-44d4-99ad-17710e48c2dd)
 
-<b>Note:</b> This competition is only open to students at Hunter School of the Performing Arts. Sorry.
+> [!NOTE]
+> This competition is only open to students at Hunter School of the Performing Arts. Sorry.
 
 
 <h3>
@@ -19,14 +20,19 @@ layout: default
   <li><b>Have it fit in with other apps.</b> A good icon shouldn't feel out of place or be to noisy or cluttered. A good icon fits in with other apps on the device. See if you can intergrate your icon to match other apps from Apple, and use those native apps (like Alarms, Phone, etc.) as a guide. Also remember that Apple's apps are loosely categorised with their colours. Let's not go putting a timetable app in with the call and messaging apps.</li>
 </ul>
 
-### This is a really good article by Apple on designing a good icon:
-**[https://developer.apple.com/design/human-interface-guidelines/app-icons](https://developer.apple.com/design/human-interface-guidelines/app-icons)**
-<br>
-<br>
-<br>
-### Keep these tips in mind, and submit as follows:
-Submit **up to three circular designs** by...
+> [!TIP]
+> This is a really helpfil article by Apple on designing a good icon:\
+> **[https://developer.apple.com/design/human-interface-guidelines/app-icons](https://developer.apple.com/design/human-interface-guidelines/app-icons)**
 
+<br/>
+
+
+### Keep these tips in mind, and submit as follows:
+> [!IMPORTANT]  
+> Don't be stupid. Don't send in anything inappropriate.
+> <br/>
+
+Submit **up to three circular designs** by...<br/>
 - **emailing me** at **gill.palmer@education.nsw.gov.au**.
 - **Finding me in person**, if you know me, etc.
 <br>
@@ -34,7 +40,7 @@ Submit **up to three circular designs** by...
 <h1 style="color:red;"><b>Submissions Close Saturday 5<sup>th</sup> April</b></h1>
 <h3 style="color:red;"><b>Have your design(s) in <b>on or before</b> Saturday the 5<sup>th</sup> of April, 2025.</b></h3>
 <br>
-<br>
+
 ## Assets
 
 ### About the app (that you're making an icon for!)
@@ -60,8 +66,11 @@ Some of those are the product bezels (I used those to create the images above he
 
 ### A little on layering
 
-You'll notice most Apple Watch apps have a gradient background with a symbol as foreground. Try to keep very close to this design. When it comes down to it, what I'm really judging on and looking for is that symbol. It should be recognisable, and intergrate with other symbols.\
-All of the Apple symbols can be found in the SF Symbols app, available from **[https://developer.apple.com/sf-symbols/](https://developer.apple.com/sf-symbols/)**
+You'll notice most Apple Watch apps have a gradient background with a symbol as foreground. Try to keep very close to this design. When it comes down to it, what I'm really judging on and looking for is that symbol. It should be recognisable, and intergrate with other symbols.
+> [!TIP]
+> All of the Apple symbols can be found in the SF Symbols app, available from
+> **[https://developer.apple.com/sf-symbols/](https://developer.apple.com/sf-symbols/)**
+
 <br>
 <br>
 

@@ -21,7 +21,7 @@ layout: default
 </ul>
 
 > [!TIP]
-> This is a really helpfil article by Apple on designing a good icon:\
+> This is a really helpful article by Apple, on designing a good icon:\
 > **[https://developer.apple.com/design/human-interface-guidelines/app-icons](https://developer.apple.com/design/human-interface-guidelines/app-icons)**
 
 <br/>
@@ -38,8 +38,13 @@ Submit **up to three circular designs** by...<br/>
 <br>
 <br>
 <h1 style="color:red;"><b>Submissions Close Saturday 5<sup>th</sup> April</b></h1>
-<h3 style="color:red;"><b>Have your design(s) in <b>on or before</b> Saturday the 5<sup>th</sup> of April, 2025.</b></h3>
-<br>
+<h3 style="color:red;"><b>Have your design(s) in <b>on or before</b> Saturday the 5<sup>th</sup> of April, 2025.</b></h3><br>
+
+> [!NOTE]
+> **There is no prize.** If your icon is chosen for the final application, I might buy you a chocolate bar. Otherwise, no promises!\
+> However, the designer of the finished icon will be credited appropriately.
+
+<br/>
 
 ## Assets
 
@@ -83,8 +88,4 @@ You'll notice most Apple Watch apps have a gradient background with a symbol as 
 **App Icons** [https://developer.apple.com/design/human-interface-guidelines/app-icons](https://developer.apple.com/design/human-interface-guidelines/app-icons) \
 **Design Resources** [https://developer.apple.com/design/resources/](https://developer.apple.com/design/resources/) \
 **SF Symbols** [https://developer.apple.com/sf-symbols/](https://developer.apple.com/sf-symbols/) \
-<sub>All links on this website have been checked and verified for safety.</sub>
-
-
-
 

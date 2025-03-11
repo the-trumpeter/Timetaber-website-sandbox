@@ -5,7 +5,7 @@ layout: default
 
 ### Insert poster here
 
-<strong>Note:</strong> This competition is only open to students at Hunter School of the Performing Arts. Sorry.</span></h4>
+<strong>Note:</strong> This competition is only open to students at Hunter School of the Performing Arts. Sorry.
 
 
 <h3>
@@ -34,7 +34,6 @@ To get started, the user will 'start' a 'term' (a term being a period where the 
 **These are images of the user interface:**
 
 <img src="https://github.com/user-attachments/assets/df3fb40c-0509-4f9e-a40e-9762b52d19db" width="200">
-<img src="https://github.com/user-attachments/assets/98728ab2-dd2d-45f7-824a-09b09edf20a5" width="200">
 <img src="https://github.com/user-attachments/assets/e18578e1-63c4-40b0-a48b-058dc97fcd44" width="200">
 <img src="https://github.com/user-attachments/assets/c625d165-db96-42c9-bb1d-3bb8465a42d2" width="200">
 
